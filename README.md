@@ -33,11 +33,13 @@ src/
 
 # Запуск проєкту
   Клонувати проект:
-  
+
+    git@github.com:yaroslavnakonechniy/home-work-41.git
 
   Встановити залежності:
 
     npm install
+    npm install react-error-boundary
 
   Запустити dev-сервер:
 
